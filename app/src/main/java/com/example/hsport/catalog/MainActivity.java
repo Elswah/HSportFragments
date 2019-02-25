@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity
     private static final String TAG = "MainActivity";
 
     private CoordinatorLayout coordinatorLayout;
-
+///
     private List<Product> mProductList = DataProvider.productList;
 
     private boolean mIsTablet;
